@@ -1,0 +1,57 @@
+
+.logo_span{
+    color: black;
+}
+.logo{
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.link{
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+
+.main_form_div{
+    margin-top: 70px;
+    margin-left: 30px;
+}
+.add_btn{
+    width: 100%;
+}
+
+
+.main_table_div{
+    margin-top: 70px;
+}
+.delete-btn{
+    margin-right: 10px;
+}
+
+
+.about_iamge{
+    height: 200px;
+    width: 200ox;
+}
+.about_iamge img{
+    height: 100%;
+    width: 100%;
+}
+
+.main_footer_div{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    bottom: 0;
+}
+
+
+.footer{
+    bottom: 0;
+    right: 0;
+    margin-top: 200px;
+   
+}

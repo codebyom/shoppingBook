@@ -1,0 +1,26 @@
+
+
+.about_iamge img{
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+}
+.main_about-div{
+    margin-top: 40px;
+}
+.main_content_div_about{
+    margin-left: -30px;
+}
+.developer_about{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.developer{
+    font-size: 20px;
+    font-weight: bold;
+}
+.author_name_span{
+    color: rgb(238, 92, 92);
+}
